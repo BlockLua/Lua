@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const { Client, Attachment } = require('discord.js');
 const bot = new Client();
 
-const token = 'NzAwMTkwNDE3Mzc0Njc1MDAx.XqEhdw.SbgT8q9igIkcwuh3zg6Iq9MpUY0';
+const token = 'udf';
 
 const PREFIX = ')';
 
